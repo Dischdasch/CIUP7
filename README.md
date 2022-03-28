@@ -1,15 +1,16 @@
 # CIUP7
-Basketball Game controllable via volume of voice
-Realized with the Processing Framework
+Basketball Game controllable via volume of voice.
+Realized with the Processing Framework.
 
 ![Screenshot (254)](https://user-images.githubusercontent.com/44921828/160443383-6cfdc978-f1aa-4060-99d0-c0ce5c1b0056.png)
 
-In the program a mini game related to basketball is realized. 
+In the program a mini game related to basketball is implemented. 
 Balls are falling from the top of the window and can either be catched with a basket or fall to the ground.
-When the ball falls into the basket, the In counter is increased, else, the out counter is incresed.
-A game takes 30 seconds and finishes, when the ball, which is falling at zero seconds touches the ground or the basket(buzzer beater).
+When the ball falls into the basket, the 'IN' counter is increased, otherwise, the 'OUT' counter is incresed.
+A game takes 30 seconds and finishes, when the ball, which is falling at zero seconds, touches the ground or the basket(buzzer beater).
+Sounds for the ball falling into the basket and the end of the game are added for more realism and auditive feedback.
 
-The Basket is controlled by the sound volume of the user. When the volume is high, the basket is moving right or is at the lower right corner. if the volume is low, the basket moves left or is at the left lower corner.
+The basket is controlled and moved by the sound volume of the user. When the volume is high, the basket is moving right or is at the lower right corner. If the volume is low, the basket moves left or is at the left lower corner.
 
 We recommend playing the game without noise in the background.
 
